@@ -38,3 +38,18 @@ dimwishlist:item=2809120022&perks=1476923953,3751917990
 //Coup
 dimwishlist:item=2763843898&perks=3038247973,3891536761
 
+//Energy
+
+//HC
+
+//Luna's Howl
+dimwishlist:item=3757612024&perks=3017780555,4293542123
+
+//Heavy
+
+//Linear
+
+//Scintillation (Adept)
+dimwishlist:item=1492522228&perks=3418782618,3078487919
+dimwishlist:item=1492522228&perks=968510818,3078487919
+dimwishlist:item=1492522228&perks=3300816228,3078487919
