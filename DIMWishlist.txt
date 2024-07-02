@@ -43,7 +43,7 @@ dimwishlist:item=2763843898&perks=3038247973,3891536761
 //HC
 
 //Luna's Howl
-dimwishlist:item=3757612024&perks=3017780555,4293542123
+dimwishlist:item=2763843899&perks=3017780555,4293542123
 
 //Heavy
 
